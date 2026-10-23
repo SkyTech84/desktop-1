@@ -156,7 +156,7 @@ Bug fixes, small features, and docs fixes are welcome. Read [CONTRIBUTING.md](./
 Liner is distributed under the **Liner Source-Available & Non-Commercial Contribution License**.
 
 - **Allowed**: Personal non-commercial usage, local builds, and upstream contributions.
-- **Prohibited**: Commercial distribution, public competing forks, or extracting core algorithms for third-party products.
+- **Prohibited**: Commercial distribution, public competing forks, or extracting core algorithms for third-party products..
 
 See [LICENSE](./LICENSE) for details.
 
